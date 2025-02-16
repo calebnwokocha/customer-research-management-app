@@ -1,6 +1,6 @@
 # Customer Research Management App
 
-This application manages customer research by incorporating multiple modules that enable efficient data collection, analysis, and reporting of customer insights.
+The application incorporates multiple modules including customer profiles, research projects, surveys, data collection, analysis workflows, and reporting dashboards.
 
 ## Features
 
