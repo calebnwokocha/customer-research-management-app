@@ -1,4 +1,4 @@
-The application incorporate multiple modules including customer profiles, research projects, surveys, data collection, analysis workflows, and reporting dashboards. Specifically, the app include:
+The application incorporates multiple modules including customer profiles, research projects, surveys, data collection, analysis workflows, and reporting dashboards. Specifically, the app include:
 
 Customer Profiles: A dedicated module to store and manage customer data such as demographic details, preferences, and segmentation information.
 Research Project Management: Tools to create, track, and archive research projects, including timelines, objectives, and associated surveys.
