@@ -48,7 +48,3 @@ The solution is dependent on the following managed solutions. **Import will fail
 
 - **App Framework Infra Extensions:** `msdyn_AppFrameworkInfraExtensions` version `1.0.0.12`
 - **App Module Assets:** `AppModuleWebResources` version `2.5`
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
