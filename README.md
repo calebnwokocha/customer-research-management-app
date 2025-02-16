@@ -49,25 +49,6 @@ The solution is dependent on the following managed solutions. **Import will fail
 - **App Framework Infra Extensions:** `msdyn_AppFrameworkInfraExtensions` version `1.0.0.12`
 - **App Module Assets:** `AppModuleWebResources` version `2.5`
 
-## Installation
-
-1. **Prerequisites:**  
-   - Ensure that the required managed solutions are installed in the target environment.
-   - Verify that all system requirements are met.
-
-2. **Setup:**  
-   - Clone the repository:  
-     ```bash
-     git clone https://github.com/yourusername/customer-research-management-app.git
-     ```
-   - Follow the configuration instructions provided in the `docs` folder.
-
-## Usage
-
-- Launch the application according to the instructions in the setup guide.
-- Access various modules via the dashboard to manage customer profiles, research projects, surveys, and more.
-- Utilize the integrated reporting and analytics tools to generate and export data insights.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
