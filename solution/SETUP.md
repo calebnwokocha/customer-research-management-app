@@ -10,7 +10,7 @@ Follow these instructions to deploy and configure the Customer Research Manageme
 ## Setup Steps
 
 ### 1. Download the Solution Package
-Download the solution file from this [repository](https://github.com/calebnwokocha/customer-research-management-app/tree/main/solution) or the specified file storage location.
+Download the solution file from this [repository](https://github.com/calebnwokocha/customer-research-management-app/tree/main/solution).
 
 ### 2. Log in to Power Apps
 - Go to the [Power Apps Maker Portal](https://make.powerapps.com/) in your browser.
