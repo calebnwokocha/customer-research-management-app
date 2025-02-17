@@ -5,7 +5,7 @@ Follow these instructions to deploy and configure the Customer Research Manageme
 ## Prerequisites
 - An active Microsoft Power Platform environment with administrative privileges.
 - The required dependencies (e.g., `AppModuleWebResources` and `PowerAppsAppFramework`) should be available in the environment.
-- The environment should have these managed solutions: **App Framework Infra Extensions:** `msdyn_AppFrameworkInfraExtensions` version `1.0.0.12` and **App Module Assets:** `AppModuleWebResources` version `2.5`
+- The environment should have these managed solutions: **App Framework Infra Extensions** `msdyn_AppFrameworkInfraExtensions` version `1.0.0.12` and **App Module Assets** `AppModuleWebResources` version `2.5`
 
 ## Setup Steps
 
