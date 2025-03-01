@@ -14,7 +14,7 @@ Analysis Workflows: Analyzes collected data using custom workflows, including re
 
 Reporting Dashboards: Displays analytical results through interactive dashboards for better decision-making.
 
-## Important Links
+## Links
 
 https://adoption.microsoft.com/en-us/sample-solution-gallery/?keyword=&sort-by=updateDateTime-true&page=1&product=Power+Apps&product=ai-builder-prompts
 
